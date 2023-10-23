@@ -3,10 +3,10 @@ import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Home() {
+export default function Contact() {
   return (
     <main>
-      <h1>Avo Store</h1>
+      <h1>Contact</h1>
     </main>
   )
 }
